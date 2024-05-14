@@ -1,0 +1,9 @@
+view\Pantalla_Gestor_De_Memoria.class
+model\PilaDeMemoria.class
+controller\ControladorGestorDeMemoria.class
+model\GestorDeMemoria.class
+model\PilaDeVariables.class
+view\PantallaDGestorDeMemoria.class
+view\Pantalla_Gestor_De_Memoria$1.class
+model\NodoVariable.class
+main\Main.class
